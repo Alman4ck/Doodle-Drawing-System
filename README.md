@@ -1,7 +1,7 @@
 Doodle Drawing System
 A simple yet interactive freehand drawing application built in Java, allowing users to create doodles, sketches, and basic artwork with mouse or touch input.
 Doodle Drawing Demo
-![Screenshot of the application](Captura de tela 2026-02-15 042210.png)
+![Screenshot of the application](DemoImage.png)
 
 Freehand drawing with mouse drag
 Color picker and customizable brush sizes
